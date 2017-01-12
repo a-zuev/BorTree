@@ -1,5 +1,5 @@
 # BorTree
- Я пишу в http://jupyter.org/install.html, потому что он удобный и интерактивный.
+ Я пишу в Jupyter Notebook http://jupyter.org/install.html, потому что он удобный и интерактивный.
 odict.csv предполагается распакованным, python предполагается python3.
 
  Способов написать лемматизатор много.
